@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matthew Flegg</h1>
-<h3 align="center">Aspiring software developer, currently studying Level 3 IT at SCG.</h3><br>
+<h3 align="center">Developer from the UK, currently studying IT at SCG</h3><br>
 
 - 🔭 I’m currently working on [BB.Bot](https://github.com/matthewflegg/bb-bot)
 
-- 🌱 I’m currently learning **Nextcord, MonoGame/XNA, and NodeJS**
+- 🌱 I’m currently learning **Nextcord, MonoGame, and NodeJS**
 
 - 📫 Reach me at **matthewflegg@outlook.com** or **matthewflegg#0170**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://instagram.com/@fleggycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fleggycodes" height="30" width="40" /></a>
 <a href="https://discord.gg/Dacy34eM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dacy34eM" height="30" width="40" /></a>
