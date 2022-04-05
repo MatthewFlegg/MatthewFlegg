@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">Developer from the UK, currently studying IT at SCG</h3><br>
+<h1 align="center">Welcome to My Profile</h1>
 
 - 🔭 I’m working on [BB.Bot](https://github.com/matthewflegg/bb-bot)
 
