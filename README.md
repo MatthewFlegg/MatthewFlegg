@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Matthew Flegg</h1>
+<h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">Developer from the UK, currently studying IT at SCG</h3><br>
 
-- 🔭 I’m currently working on [BB.Bot](https://github.com/matthewflegg/bb-bot)
+- 🔭 I’m working on [BB.Bot](https://github.com/matthewflegg/bb-bot)
 
-- 🌱 I’m currently learning **Nextcord, MonoGame, and NodeJS**
+- 🌱 I’m learning **Rust and MonoGame**
 
 - 📫 Reach me at **matthewflegg@outlook.com** or **matthewflegg#0170**
 
