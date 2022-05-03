@@ -1,11 +1,3 @@
-<h1 align="center">Welcome to My Profile</h1>
-
-- 🔭 I’m working on [BB.Bot](https://github.com/matthewflegg/bb-bot)
-
-- 🌱 I’m learning **Rust and MonoGame**
-
-- 📫 Reach me at **matthewflegg@outlook.com** or **matthewflegg#0170**
-
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://instagram.com/@fleggycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fleggycodes" height="30" width="40" /></a>
